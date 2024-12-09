@@ -48,9 +48,6 @@ Moving forward, the focus will be on:
 ## Data Labeling and Fine-Tuning PaddleOCR
 Follow the JSON document labeling guide and try fine-tuning **PaddleOCR** for better performance.
 
-## Repository Information
-All the code and files for the project are the property of GoSaaS and are not to be used without explicit consent of the owner and the coder.
-
 ## Files
 
 - **YOLO_CheckboxDetection&TROcr.ipynb**
@@ -65,10 +62,4 @@ All the code and files for the project are the property of GoSaaS and are not to
   - Testing TrOCR on images and adjusting hyperparameters to get better inference results.
 
 ## Directories
-
-- **Annotated Data**
-  - Contains the text blocks extracted from the documents and then labeled to be used for fine-tuning.
-- **Completed Scans**
-  - Contains the scanned PDF files submitted for processing.
-- **Processed Data**
-  - Contains CSV files which have file paths and ground truths to be used for fine-tuning.
+The directories containing the scanned documents have been removed due to security and privacy issues.
